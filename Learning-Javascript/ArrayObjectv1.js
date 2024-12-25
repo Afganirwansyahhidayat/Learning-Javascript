@@ -1,3 +1,4 @@
+// Array Object
 const characters = [
     {
       name: "Luke Skywalker",
